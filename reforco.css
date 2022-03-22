@@ -1,0 +1,42 @@
+h1{
+
+	text-align: center;
+	background: url('./fundos/chao.jpg');
+}
+
+body{
+	background: url('./fundos/skyblue.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+p{
+  
+  /*margin: 0;*/
+  font-size: 20px;
+  color: black;
+  text-align: bottom;
+
+}
+img{
+  	float: left;
+  	margin: 10px;
+
+
+}
+
+h2{
+	color: red;
+	
+}
+
+.l1{
+
+	text-decoration: none;
+	color: white;
+	background: black;
+	margin: 180px;
+	font-size: 30px;
+	border-radius:5px;
+}
